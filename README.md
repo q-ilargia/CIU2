@@ -5,7 +5,7 @@ La práctica presentada a continuación consiste en un prototipo que recoge punt
 
   ![Ejemplo](https://github.com/q-ilargia/CIU2/blob/main/Gif%20CIU2.gif?raw=true)
 
-#Decisiones de diseño
+# Decisiones de diseño
 
 Las decisiones tomadas fueron qué teclas emplear para cada opción, desglosando los motivos de cada tecla acontinuación<br/>
 -ENTER para ver modelo 3D, porque es como si se aceptaran los cambios realizados.<br/>
@@ -13,12 +13,12 @@ Las decisiones tomadas fueron qué teclas emplear para cada opción, desglosando
 -Tecla M para cambiar colores, porque identificamos la M como modo de color.<br/>
 -Tecla espacio para retornar la modelo 2D, por ser una tecla de fácil acceso.<br/>
 
-#Breve resumen del funcionamiento
+# Breve resumen del funcionamiento
 
 La implementación en sí es bastante simple:<br/>
 Para utilizarla sólo hay que dibujar los distintos puntos de la figura y posteriormente pulsar ENTER para ver el resultante.
 
-#Recursos
+# Recursos
 
 Guión de prácticas presente en el moodle de la asignatura<br/>
 [Streamlabs](https://streamlabs.com/?l=es-ES) Para la captura de la ventana<br/>
