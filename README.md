@@ -1,4 +1,5 @@
-# CIU2
+# CIU2 ||Made by Javier Santana Álamo
+
 
 La práctica presentada a continuación consiste en un prototipo que recoge puntos de un perfil del sólido de revolución al hacer clic con el ratón sobre la pantalla. Dicho perfil será utilizado por el prototipo para crear un objeto tridimensional.
 
